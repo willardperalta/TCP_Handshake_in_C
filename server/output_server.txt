@@ -1,0 +1,32 @@
+Part 1 of TCP Handshake (SYN from client)
+-------Raw Bytes of TCP Header---------
+c088626b720a00000000000000024470ffff0000
+-------Human Readable TCP Header-------
+Source TCP port number: 49288
+Destination port number: 25195
+Sequence Number: 1913257984
+Acknowledgement number: 0
+TCP data offset: 0
+Reserved data: 0
+Control flags: 
+SYN
+Window size: 17520
+TCP Checksum: 65535
+Urgent Pointer: 0
+
+
+Part 3 of TCP Handshake (ACK from client)
+-------Raw Bytes of TCP Header---------
+c088626b720a00012d17000100104470ffff0000
+-------Human Readable TCP Header-------
+Source TCP port number: 49288
+Destination port number: 25195
+Sequence Number: 1913257985
+Acknowledgement number: 756482049
+TCP data offset: 0
+Reserved data: 0
+Control flags: 
+ACK
+Window size: 17520
+TCP Checksum: 65535
+Urgent Pointer: 0

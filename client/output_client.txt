@@ -1,0 +1,16 @@
+Part 2 of TCP Handshake (SYN-ACK from server)
+-------Raw Bytes of TCP Header---------
+626bc0882d170000720a000100124470ffff0000
+-------Human Readable TCP Header-------
+Source TCP port number: 25195
+Destination port number: 49288
+Sequence Number: 756482048
+Acknowledgement number: 1913257985
+TCP data offset: 0
+Reserved data: 0
+Control flags: 
+SYN
+ACK
+Window size: 17520
+TCP Checksum: 65535
+Urgent Pointer: 0
